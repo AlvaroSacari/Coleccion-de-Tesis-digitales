@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: tesis
+        psr4_prefix: tesis
+        src_path: app
